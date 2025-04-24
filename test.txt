@@ -1,0 +1,40 @@
+africa - transform: matrix(0.87, 0.5, -0.87, 0.5, 0, 0);
+v - transform: matrix(0.87, 0.5, -0.87, 0.5, 0, 0);
+trump - transform: matrix(0.87, 0.5, -0.87, 0.5, 0, 0);
+
+monic - transform: matrix(0.87, -0.5, 0.87, 0.5, 0, 0);
+graph - transform: matrix(0.87, -0.5, 0.87, 0.5, 0, 0);
+kol - transform: matrix(0.87, -0.5, 0.87, 0.5, 0, 0);
+
+coin - transform: matrix(0.87, 0.5, -0.87, 0.5, 0, 0);
+
+
+/* web2 */
+
+position: absolute;
+width: 306.3px;
+height: 306.3px;
+left: 1565.95px;
+top: 1471.57px;
+
+background: url(.png);
+filter: drop-shadow(0px 4px 30px #000000);
+transform: matrix(0.87, 0.5, -0.87, 0.5, 0, 0);
+
+
+/* Rectangle 1188 */
+
+position: absolute;
+width: 1920px;
+height: 2162px;
+left: 7px;
+top: 5398px;
+
+background: linear-gradient(90deg, rgba(255, 161, 0, 0) 40%, #FFA100 45%, #AF64FF 55%, rgba(175, 100, 255, 0) 60%);
+
+
+
+
+
+
+
